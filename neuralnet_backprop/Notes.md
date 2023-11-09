@@ -17,3 +17,9 @@
 
 - chain rule is import in backprop
   - dz/dx = dz/dy . dy/dx
+- tanh -> squash funtion
+
+- topological sort
+  - Left to right ordering of a DAG
+  - in order to apply backward all the computations need to be executed
+  - ie: all the nodes before the end nodes should be computed
