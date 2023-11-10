@@ -23,3 +23,8 @@
   - Left to right ordering of a DAG
   - in order to apply backward all the computations need to be executed
   - ie: all the nodes before the end nodes should be computed
+
+- 1:55:54 doubt
+
+- learning rate decay: reduces learning rate after each epochs
+- Always do zero grad before back prop or you will end up adding the previous gradient values
