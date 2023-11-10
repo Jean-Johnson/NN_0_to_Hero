@@ -6,7 +6,7 @@ _My notes and codes from andrewj karpathy <a href='https://youtube.com/playlist?
 </p>
 
 ## Learning Path
-- [ ] [Neural networks and backpropagation](https://youtu.be/VMj-3S1tku0?si=W_Eb6SCxW3hDF6EJ)
+- [X] [Neural networks and backpropagation](https://youtu.be/VMj-3S1tku0?si=W_Eb6SCxW3hDF6EJ)
 - [ ] [Intro to language modeling](https://youtu.be/PaCmpygFfXo?si=9LPlPOjRV2QsVwP4)
 - [ ] [Building multilayer perceptron](https://youtu.be/TCH_1BHY58I?si=_-xDWyzwj8f733st)
 - [ ] [Activations & Gradients, BatchNorm](https://youtu.be/P6sfmUTpUmc?si=Zj4QP8UWBmHDcgHY)
